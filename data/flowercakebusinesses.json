@@ -1,0 +1,540 @@
+{
+"shopList":[
+  {
+    "picUrl": "src/assets/img/flowerentrance/f07.jpg",
+    "brandTapUrl": "src/assets/img/index/brandtag.png",
+    "shopName": "冉子花坊",
+    "starNum":5,
+    "wmPoiScore": 4.9,
+    "monthSalesTip": "月售622",
+    "deliveryTimeTip": "32分钟",
+    "distance": "11.0km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥5",
+    "nightShippingFeeTip": "夜间配送 ¥9",
+    "averagePriceTip": "人均 ￥21",
+    "ifMeiTuandelivery": "true",
+    "yelp":{
+        "yelpInfo": "大众点评高分店铺",
+        "yelpIconSrc": "src/assets/img/index/yelp.png"
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      },
+      {
+        "discountInfo": "领5元券;领10元券;领15元券;",
+        "discountIconSrc": "src/assets/img/index/ling.png"
+      }
+    ],
+
+    "address": "瑶华中街36号首层",
+    "deliveryTimeArea":"配送时间：00:00-23:59",
+    "announcement":"本店配送时间为早上8:30分至晚上23:30点，紧急订单请致电后再下单13711666654  下单后请在备注填写；收花人/定花人电话，配送日期，贺卡留言,云云鲜花以新鲜送货快为服务宗旨，质量保证，全城快速新鲜送达，市区1-2小时送达",
+    "services":[
+      {
+        "serviceInfo": "该商户支持在线支付",
+        "serviceIconSrc": "src/assets/img/index/fu.png"
+      }
+    ]
+  },
+  {
+    "picUrl": "src/assets/img/flowerentrance/f02.png",
+    "brandTapUrl": "",
+    "shopName": "馨韵花艺",
+    "starNum":3,
+    "wmPoiScore": 3.6,
+    "monthSalesTip": "月售18",
+    "deliveryTimeTip": "59分钟",
+    "distance": "246m",
+    "minPriceTip": "起送 ¥30",
+    "shippingFeeTip": "配送 ¥4",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "false",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "本店支持开发票，开票金额0元起",
+        "discountIconSrc": "src/assets/img/index/piao.png"
+      }
+    ],
+
+    "address": "广州市黄埔区萝岗街萝岗社区下中西街2号101房",
+    "deliveryTimeArea":"配送时间：00:00-23:59",
+    "announcement":"欢迎前来订购商家电话19924796460  19924235408",
+    "services":[
+      {
+        "serviceInfo": "该商户为品牌商户",
+        "serviceIconSrc": "src/assets/img/index/pai.png"
+      },
+      {
+        "serviceInfo": "该商户支持在线支付",
+        "serviceIconSrc": "src/assets/img/index/fu.png"
+      }
+    ]
+
+  },
+  {
+    "picUrl": "src/assets/img/flowerentrance/f10.jpg",
+    "brandTapUrl": "",
+    "shopName": "叶兰花艺",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      },
+      {
+        "discountInfo": "领5元券;领10元券;领15元券;",
+        "discountIconSrc": "src/assets/img/index/ling.png"
+      }
+    ],
+
+    "address": "沭阳县庙头镇后圩村六组",
+    "deliveryTimeArea":"配送时间：00:00-23:59",
+    "announcement":"请注意：所有商品均由江苏采用快递配送发货，下单成功后24小时内发货，发货后2-6天左右送达（并非下单当日，次日送达，谨慎下单），快递会放到代理点或者速递易蜂巢等，如有任何问题请联系：18000127893或13665189673",
+    "services":[
+
+      {
+        "serviceInfo": "该商户支持在线支付",
+        "serviceIconSrc": "src/assets/img/index/fu.png"
+      }
+    ]
+
+  },
+  {
+    "picUrl": "src/assets/img/flowerentrance/f09.jpg",
+    "brandTapUrl": "src/assets/img/index/brandtag.png",
+    "shopName": "贝克斯花店",
+    "starNum":1,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      },
+      {
+        "discountInfo": "领5元券;领10元券;领15元券;",
+        "discountIconSrc": "src/assets/img/index/ling.png"
+      }
+    ],
+
+
+    "address": "广州市黄埔区荔红二路锐丰中心9-119号",
+    "deliveryTimeArea":"配送时间：00:00-23:59",
+    "announcement":"下单后可以联系店主哦！！花材是空运回来的A级花材，会比当地花期长，优惠多多……",
+    "services":[
+      {
+        "serviceInfo": "该商户为品牌商户",
+        "serviceIconSrc": "src/assets/img/index/pai.png"
+      }
+    ]
+
+  },
+  {
+    "picUrl": "src/assets/img/flowerentrance/f11.jpg",
+    "brandTapUrl": "",
+    "shopName": "嗨森先生",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+
+    ],
+
+    "address": "广州市黄埔区荔红二路锐丰中心9-119号",
+    "deliveryTimeArea":"配送时间：00:00-23:59",
+    "announcement":"下单后可以联系店主哦！！花材是空运回来的A级花材，会比当地花期长，优惠多多……",
+    "services":[
+      {
+        "serviceInfo": "该商户支持在线支付",
+        "serviceIconSrc": "src/assets/img/index/fu.png"
+      }
+    ]
+
+  },
+  {
+    "picUrl": "src/assets/img/flowerentrance/f12.jpg",
+    "brandTapUrl": "src/assets/img/index/brandtag.png",
+    "shopName": "奇乐花屋",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      }
+    ],
+
+    "address": "广州市黄埔区荔红二路锐丰中心9-119号",
+    "deliveryTimeArea":"配送时间：00:00-23:59",
+    "announcement":"下单后可以联系店主哦！！花材是空运回来的A级花材，会比当地花期长，优惠多多……",
+    "services":[
+      {
+        "serviceInfo": "该商户支持在线支付",
+        "serviceIconSrc": "src/assets/img/index/fu.png"
+      }
+    ]
+
+  },
+  {
+    "picUrl": "src/assets/img/flowerentrance/f06.jpg",
+    "brandTapUrl": "src/assets/img/index/brandtag.png",
+    "shopName": "朱丽叶花坊",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      }
+    ],
+
+    "address": "广州市黄埔区荔红二路锐丰中心9-119号",
+    "deliveryTimeArea":"配送时间：00:00-23:59",
+    "announcement":"下单后可以联系店主哦！！花材是空运回来的A级花材，会比当地花期长，优惠多多……",
+    "services":[
+      {
+        "serviceInfo": "该商户支持在线支付",
+        "serviceIconSrc": "src/assets/img/index/fu.png"
+      }
+    ]
+
+  },
+  {
+    "picUrl": "src/assets/img/flowerentrance/f05.jpg",
+    "brandTapUrl": "",
+    "shopName": "微微一笑",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      }
+    ],
+
+    "address": "广州市黄埔区荔红二路锐丰中心9-119号",
+    "deliveryTimeArea":"配送时间：00:00-23:59",
+    "announcement":"下单后可以联系店主哦！！花材是空运回来的A级花材，会比当地花期长，优惠多多……",
+    "services":[
+      {
+        "serviceInfo": "该商户支持在线支付",
+        "serviceIconSrc": "src/assets/img/index/fu.png"
+      }
+    ]
+
+  },
+  {
+    "picUrl": "src/assets/img/flowerentrance/f04.jpg",
+    "brandTapUrl": "",
+    "shopName": "浪漫满屋",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      }
+    ],
+
+    "address": "广州市黄埔区东区漫林街119号",
+    "deliveryTimeArea":"配送时间：00:00-23:59",
+    "announcement":"下单必看： . 2、关于价格：节日期间前后5天鲜花价格会上涨1-2倍（如妇女节、情人节、圣诞节、春节、母亲节、520、七夕、教师节等等节日）",
+    "services":[
+      {
+        "serviceInfo": "该商户支持在线支付",
+        "serviceIconSrc": "src/assets/img/index/fu.png"
+      }
+    ]
+
+  },
+  {
+    "picUrl": "src/assets/img/flowerentrance/f03.jpg",
+    "brandTapUrl": "src/assets/img/index/brandtag.png",
+    "shopName": "行云流水",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      }
+    ],
+
+    "address": "抗英大街二巷二横3号",
+    "deliveryTimeArea":"配送时间：00:00-23:59",
+    "announcement":"下单后可以联系店主哦！！花材是空运回来的A级花材，会比当地花期长，优惠多多……",
+    "services":[
+      {
+        "serviceInfo": "该商户支持在线支付",
+        "serviceIconSrc": "src/assets/img/index/fu.png"
+      }
+    ]
+
+  },
+  {
+    "picUrl": "src/assets/img/flowerentrance/f09.jpg",
+    "brandTapUrl": "",
+    "shopName": "花前月下",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      }
+    ],
+
+    "address": "广州市黄埔区荔红二路锐丰中心9-119号",
+    "deliveryTimeArea":"配送时间：00:00-23:59",
+    "announcement":"下单后可以联系店主哦！！花材是空运回来的A级花材，会比当地花期长，优惠多多……",
+    "services":[
+      {
+        "serviceInfo": "该商户支持在线支付",
+        "serviceIconSrc": "src/assets/img/index/fu.png"
+      }
+    ]
+
+  },
+  {
+    "picUrl": "src/assets/img/flowerentrance/f01.jpg",
+    "brandTapUrl": "src/assets/img/index/brandtag.png",
+    "shopName": "鱼人花坊",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      }
+    ],
+
+    "address": "广州市黄埔区荔红二路锐丰中心9-119号",
+    "deliveryTimeArea":"配送时间：00:00-23:59",
+    "announcement":"熬足8小时只为一碗浓香粥~ 欢迎选择粥大师的亲们~ 订餐高峰期会有爆单情况出现，大师可能会暂时下架部分产品，十几分钟后会尽快恢复~在高峰期未能下单的亲亲们请谅解稍作等待一下下~ 大师不会拒绝您~只为了让您有更好的用餐体验无需等待太久~",
+    "services":[
+      {
+        "serviceInfo": "该商户支持在线支付",
+        "serviceIconSrc": "src/assets/img/index/fu.png"
+      }
+    ]
+
+  },
+  {
+    "picUrl": "src/assets/img/flowerentrance/f12.jpg",
+    "brandTapUrl": "",
+    "shopName": "梅竹兰菊",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      }
+    ],
+
+    "address": "广州市黄埔区荔红二路锐丰中心9-119号",
+    "deliveryTimeArea":"配送时间：00:00-23:59",
+    "announcement":"下单必看： . 2、关于价格：节日期间前后5天鲜花价格会上涨1-2倍（如妇女节、情人节、圣诞节、春节、母亲节、520、七夕、教师节等等节日）",
+    "services":[
+      {
+        "serviceInfo": "该商户支持在线支付",
+        "serviceIconSrc": "src/assets/img/index/fu.png"
+      }
+    ]
+
+  }
+
+
+]
+}

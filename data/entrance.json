@@ -1,0 +1,197 @@
+{
+  "eList":[
+    {
+      "imgUrl":"src/assets/img/entrance/01.jpg",
+      "shopName":"TVB港式奶茶",
+      "addr":"[北京路商业区]单人小吃套餐2选1",
+      "price":"1.99",
+      "doorPrice":"16",
+      "subPrice":"",
+      "hasSell":"4617"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/02.jpg",
+      "shopName":"巴喜阳光BBQ自助餐厅",
+      "addr":"[体育中心]单人自助午餐",
+      "price":"58",
+      "doorPrice":"",
+      "subPrice":"新客减9",
+      "hasSell":"42918"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/03.jpg",
+      "shopName":"堂会ktv",
+      "addr":"[5店通用]周一至周日欢唱3小时+自助餐单人券",
+      "price":"75",
+      "doorPrice":"83",
+      "subPrice":"",
+      "hasSell":"29278"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/04.jpg",
+      "shopName":"藤野造型",
+      "addr":"[广州等]单人闲时健康烫/染/直3选1",
+      "price":"239",
+      "doorPrice":"",
+      "subPrice":"减120元",
+      "hasSell":"22913"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/05.jpg",
+      "shopName":"一碌木寿司",
+      "addr":"[广州等]平日通用自助",
+      "price":"49",
+      "doorPrice":"79",
+      "subPrice":"",
+      "hasSell":"30709"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/06.jpg",
+      "shopName":"汤响自助回转火锅百汇",
+      "addr":"[6店通用]单人自助火锅午餐",
+      "price":"45",
+      "doorPrice":"59",
+      "subPrice":"",
+      "hasSell":"134623"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/07.jpg",
+      "shopName":"汤响自助回转火锅百汇",
+      "addr":"[6店通用]单人自助火锅午餐",
+      "price":"47",
+      "doorPrice":"50",
+      "subPrice":"",
+      "hasSell":"134623"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/08.jpg",
+      "shopName":"华莱士",
+      "addr":"[广州等]豪华手扒鸡双人餐",
+      "price":"31.5",
+      "doorPrice":"47.5",
+      "subPrice":"",
+      "hasSell":"21020"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/09.jpg",
+      "shopName":"嘿牛烤肉料理",
+      "addr":"[3店通用]全新双人品质套餐",
+      "price":"128",
+      "doorPrice":"226",
+      "subPrice":"",
+      "hasSell":"23776"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/10.jpg",
+      "shopName":"CoCo都可",
+      "addr":"[广州等]芒果绿茶1份",
+      "price":"7.8",
+      "doorPrice":"9",
+      "subPrice":"",
+      "hasSell":"125978"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/11.png",
+      "shopName":"大世界保龄球馆",
+      "addr":"[体育中心]休闲时段双人保龄球套餐",
+      "price":"56.5",
+      "doorPrice":"110",
+      "subPrice":"",
+      "hasSell":"26776"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/12.jpg",
+      "shopName":"Taning挞柠·匠心柠檬茶",
+      "addr":"[52店通用]3选1，提供免费WiFi",
+      "price":"19.9",
+      "doorPrice":"14",
+      "subPrice":"",
+      "hasSell":"20609"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/13.jpg",
+      "shopName":"蒙肥羊",
+      "addr":"[3店通用]全天通用自助餐",
+      "price":"72",
+      "doorPrice":"78",
+      "subPrice":"",
+      "hasSell":"526062"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/14.jpg",
+      "shopName":"尊宝比萨",
+      "addr":"[广州等]芝士焗榴莲1选1",
+      "price":"45",
+      "doorPrice":"98",
+      "subPrice":"",
+      "hasSell":"21127"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/15.jpg",
+      "shopName":"毋题·無限食",
+      "addr":"[江高]自助晚餐C",
+      "price":"45",
+      "doorPrice":"98",
+      "subPrice":"",
+      "hasSell":"21147"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/16.jpg",
+      "shopName":"食上签串串香火锅",
+      "addr":"[6店通用]100元代金券1张",
+      "price":"69",
+      "doorPrice":"100",
+      "subPrice":"",
+      "hasSell":"28153"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/17.jpg",
+      "shopName":"阪尚皇•烤牛排自助餐厅",
+      "addr":"[北京路商业区]烤肉火锅晚市自助",
+      "price":"65",
+      "doorPrice":"98",
+      "subPrice":"",
+      "hasSell":"531"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/18.jpg",
+      "shopName":"四海一家",
+      "addr":"[长隆/南村/万达]周一至周四单人自助晚餐",
+      "price":"163",
+      "doorPrice":"168",
+      "subPrice":"",
+      "hasSell":"128976"
+
+    },
+    {
+      "imgUrl":"src/assets/img/entrance/19.jpg",
+      "shopName":"老佛爷炭火蛙锅木寿司",
+      "addr":"[洛溪]100元代金券（新店开业超值尝鲜，限量抢购）1张",
+      "price":"89",
+      "doorPrice":"",
+      "subPrice":"新客减30",
+      "hasSell":"30709"
+
+    }
+
+  ]
+
+
+}

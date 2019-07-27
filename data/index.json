@@ -1,0 +1,424 @@
+{
+"indexList":[
+  {
+    "picUrl": "src/assets/img/idx/1.jpg",
+    "brandTapUrl": "src/assets/img/index/brandtag.png",
+    "shopName": "鲜芋仙（萝岗万达店）",
+    "starNum":5,
+    "wmPoiScore": 4.9,
+    "monthSalesTip": "月售622",
+    "deliveryTimeTip": "32分钟",
+    "distance": "11.0km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥5",
+    "nightShippingFeeTip": "夜间配送 ¥9",
+    "averagePriceTip": "人均 ￥21",
+    "ifMeiTuandelivery": "true",
+    "yelp":{
+        "yelpInfo": "大众点评高分店铺",
+        "yelpIconSrc": "src/assets/img/index/yelp.png"
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      },
+      {
+        "discountInfo": "领5元券;领10元券;领15元券;",
+        "discountIconSrc": "src/assets/img/index/ling.png"
+      }
+    ]
+
+
+  },
+  {
+    "picUrl": "src/assets/img/idx/2.jpg",
+    "brandTapUrl": "",
+    "shopName": "鲜芋仙（萝岗万达店）",
+    "starNum":3,
+    "wmPoiScore": 3.6,
+    "monthSalesTip": "月售18",
+    "deliveryTimeTip": "59分钟",
+    "distance": "246m",
+    "minPriceTip": "起送 ¥30",
+    "shippingFeeTip": "配送 ¥4",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "false",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "本店支持开发票，开票金额0元起",
+        "discountIconSrc": "src/assets/img/index/piao.png"
+      }
+    ]
+
+
+
+  },
+  {
+    "picUrl": "src/assets/img/idx/3.jpg",
+    "brandTapUrl": "",
+    "shopName": "必胜客宅急送（萝岗万达店）",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      },
+      {
+        "discountInfo": "领5元券;领10元券;领15元券;",
+        "discountIconSrc": "src/assets/img/index/ling.png"
+      }
+    ]
+
+
+  },
+  {
+    "picUrl": "src/assets/img/idx/4.jpg",
+    "brandTapUrl": "src/assets/img/index/brandtag.png",
+    "shopName": "北方家宴（香雪奥园店）",
+    "starNum":1,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      },
+      {
+        "discountInfo": "领5元券;领10元券;领15元券;",
+        "discountIconSrc": "src/assets/img/index/ling.png"
+      }
+    ]
+
+
+
+  },
+  {
+    "picUrl": "src/assets/img/idx/5.png",
+    "brandTapUrl": "",
+    "shopName": "嗨森先生",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+
+    ]
+
+
+
+  },
+  {
+    "picUrl": "src/assets/img/idx/6.jpg",
+    "brandTapUrl": "src/assets/img/index/brandtag.png",
+    "shopName": "伍月爱•韩国料理（大壮店）",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      }
+    ]
+
+
+  },
+  {
+    "picUrl": "src/assets/img/idx/7.jpg",
+    "brandTapUrl": "src/assets/img/index/brandtag.png",
+    "shopName": "宇治蛋包饭（萝岗店）",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      }
+    ]
+
+
+  },
+  {
+    "picUrl": "src/assets/img/idx/8.jpg",
+    "brandTapUrl": "",
+    "shopName": "赛百味（萝岗万达店）",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      }
+    ]
+
+
+
+  },
+  {
+    "picUrl": "src/assets/img/idx/9.jpg",
+    "brandTapUrl": "",
+    "shopName": "浪漫满屋",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      }
+    ]
+
+
+
+  },
+  {
+    "picUrl": "src/assets/img/idx/10.png",
+    "brandTapUrl": "src/assets/img/index/brandtag.png",
+    "shopName": "车前外带寿司（香雪店）",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      }
+    ]
+
+
+  },
+  {
+    "picUrl": "src/assets/img/idx/11.jpg",
+    "brandTapUrl": "",
+    "shopName": "明记麻辣香锅",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      }
+    ]
+
+
+
+  },
+  {
+    "picUrl": "src/assets/img/idx/12.jpg",
+    "brandTapUrl": "src/assets/img/index/brandtag.png",
+    "shopName": "千秋便当屋（萝岗万达店）",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      }
+    ]
+
+
+  },
+  {
+    "picUrl": "src/assets/img/idx/13.jpg",
+    "brandTapUrl": "",
+    "shopName": "千秋便当屋（萝岗万达店）",
+    "starNum":5,
+    "wmPoiScore": 4.8,
+    "monthSalesTip": "月售326",
+    "deliveryTimeTip": "1小时",
+    "distance": "2.9km",
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "nightShippingFeeTip": "",
+    "averagePriceTip": "",
+    "ifMeiTuandelivery": "",
+    "yelp":{
+        "yelpInfo": "",
+        "yelpIconSrc": ""
+    },
+    "discounts":[
+      {
+        "discountInfo": "满100减80",
+        "discountIconSrc": "src/assets/img/index/jian.png"
+      },
+      {
+        "discountInfo": "折扣商品1.32折起",
+        "discountIconSrc": "src/assets/img/index/zhe.png"
+      }
+    ]
+
+
+  }
+
+
+]
+}

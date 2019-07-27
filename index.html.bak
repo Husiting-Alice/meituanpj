@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <!-- 引入视口标签 -->
+    <meta content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0" name="viewport">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="./src/js/jquery.min.js"></script>
+    <title>vueproject</title>
+    <!-- 标题栏： -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <!-- 收藏夹： -->
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+  </head>
+   <!-- style="background-color: #f0efed;" -->
+  <body>
+    <!-- 最终页面渲染到#app中，
+      单页面开发，最终只有一个页面：index.html，其余所有内容通过build.js引入 -->
+    <div id="app"></div>
+
+    <!-- 通过webpack工具，再执行npm run dev时自动找到build.js,但是我们只能直接操作main.js -->
+    <script src="/dist/build.js"></script>
+  </body>
+</html>

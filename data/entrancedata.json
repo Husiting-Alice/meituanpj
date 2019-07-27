@@ -1,0 +1,33 @@
+{
+  "businesses":[
+    {
+      "leftBImgSrc":"",
+      "leftSImgSrc":"",
+      "bTitle":"明记高钙咸骨粥、爽滑饺子王",
+      "time":"09:20",
+      "price":"8",
+      "money":"0",
+      "average":"9",
+
+      "show1":"false",
+      "show2":"false"
+    },
+    {
+      "leftBImgSrc":"",
+      "leftSImgSrc":"",
+      "bTitle":"垄上阁美食（请备注短号）",
+      "time":"09:30",
+      "price":"9",
+      "money":"0",
+      "average":"9",
+
+      "show1":"false",
+      "show2":"false",
+      "show1Img1":"",
+      "account":"4",
+      "show2Img2":"",
+
+
+    }
+  ]
+}
