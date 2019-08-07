@@ -2,7 +2,7 @@
   <main id="submitOrderMain">
 
     <header id="header" class="soHeader">
-      <i class="iconfont">&#xe679;</i>
+      <i class="iconfont" id="orderReturnIcon" @click="toShop">&#xe679;</i>
       <span id="headerText">提交订单</span>
     </header>
 
@@ -109,6 +109,12 @@
       return{
         logoSrc:'./src/assets/logo.png',
         logoDesc:'美团外卖'
+      }
+    },
+    methods:{
+      toShop(){
+        this.$router.replace({ path: '/shop' })
+
       }
     }
   }

@@ -60,6 +60,8 @@
 <style scoped>
  .totalsortUl{
   width:100%;
+  max-width:750px;
+  margin:0 auto;
   background-color:#fff;
  }
  .totalsortLi{

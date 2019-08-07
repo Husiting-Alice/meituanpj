@@ -110,7 +110,8 @@
         msg:'v-flowertotalsort',
         bList:[],
         discountItemShow:false,
-        filtertrangleshow:false
+        filtertrangleshow:false,
+        degrees:45
 
       }
     },
@@ -131,7 +132,12 @@
     },
     methods:{
       togglenavScreenSort(){
-        $('#totalsortUpandDown').toggleClass('setBtnToUp');
+        this.degrees += 180;
+        $('#totalsortUpandDown').css({
+          "transform":"rotate("+this.degrees+"deg)",
+          "transition":"0.2s"
+        })
+        // $('#totalsortUpandDown').toggleClass('setBtnToUp');
         this.$store.commit('flownavsortfilttoggle');
         this.filtertrangleshow = !this.filtertrangleshow;
       },
@@ -206,6 +212,8 @@
 
   #titleUl{
     width:100%;
+    max-width:750px;
+    margin:0 auto;
     height:0.8rem;
     line-height:0.8rem;
     display:flex;

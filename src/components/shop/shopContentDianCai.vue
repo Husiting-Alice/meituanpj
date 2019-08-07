@@ -2,21 +2,47 @@
 <main id="dcMain">
   <ul id="dcLeftUl">
     <li class="dcLeftLi dcLeftLiActive" id="leftLi1" @click="changeLiText($event)">
-      <img src="../../assets/img/tags.png" class="discountTags" />
-      折扣
+      <a @click.prevent="custormAnchor('li1')">
+        <img src="../../assets/img/tags.png" class="discountTags" />
+        折扣
+      </a>
     </li>
-    <li class="dcLeftLi" id="leftLi2" @click="changeLiText($event);changeRightContent($event)">购买须知</li>
-    <li class="dcLeftLi" id="leftLi3" @click="changeLiText($event);changeRightContent($event)">家居鲜花</li>
-    <li class="dcLeftLi" id="leftLi4" @click="changeLiText($event);changeRightContent($event)">包月鲜花</li>
-    <li class="dcLeftLi" id="leftLi5" @click="changeLiText($event);changeRightContent($event)">节日鲜花</li>
-    <li class="dcLeftLi" id="leftLi6" @click="changeLiText($event);changeRightContent($event)">店铺精选</li>
-    <li class="dcLeftLi" id="leftLi7" @click="changeLiText($event);changeRightContent($event)">爱意表达</li>
-    <li class="dcLeftLi" id="leftLi8" @click="changeLiText($event);changeRightContent($event)">高清定制</li>
-    <li class="dcLeftLi" id="leftLi9" @click="changeLiText($event);changeRightContent($event)">生日祝福</li>
-    <li class="dcLeftLi" id="leftLi10" @click="changeLiText($event);changeRightContent($event)">商务清点</li>
-    <li class="dcLeftLi" id="leftLi11" @click="changeLiText($event);changeRightContent($event)">百合/康乃馨</li>
-    <li class="dcLeftLi" id="leftLi12" @click="changeLiText($event);changeRightContent($event)">圣诞专区</li>
-    <li class="dcLeftLi" id="leftLi13" @click="changeLiText($event);changeRightContent($event)">开业花篮</li>
+    <li class="dcLeftLi" id="leftLi2" @click="changeLiText($event);">
+      <a @click.prevent="custormAnchor('li2')">购买须知</a>
+    </li>
+    <li class="dcLeftLi" id="leftLi3" @click="changeLiText($event);">
+      <a @click.prevent="custormAnchor('li3')">家居鲜花</a>
+    </li>
+    <li class="dcLeftLi" id="leftLi4" @click="changeLiText($event);">
+      <a @click.prevent="custormAnchor('li4')">包月鲜花</a>
+    </li>
+    <li class="dcLeftLi" id="leftLi5" @click="changeLiText($event);">
+      <a @click.prevent="custormAnchor('li5')">节日鲜花</a>
+    </li>
+    <li class="dcLeftLi" id="leftLi6" @click="changeLiText($event);">
+      <a @click.prevent="custormAnchor('li6')">店铺精选</a>
+    </li>
+    <li class="dcLeftLi" id="leftLi7" @click="changeLiText($event);">
+      <a @click.prevent="custormAnchor('li7')">爱意表达</a>
+    </li>
+    <li class="dcLeftLi" id="leftLi8" @click="changeLiText($event);">
+      <a @click.prevent="custormAnchor('li8')">高清定制</a>
+    </li>
+    <li class="dcLeftLi" id="leftLi9" @click="changeLiText($event);">
+      <a @click.prevent="custormAnchor('li9')">生日祝福</a>
+    </li>
+    <li class="dcLeftLi" id="leftLi10" @click="changeLiText($event);">
+      <a @click.prevent="custormAnchor('li10')">商务清点</a>
+    </li>
+    <li class="dcLeftLi" id="leftLi11" @click="changeLiText($event);">
+      <a @click.prevent="custormAnchor('li11')">百合/康乃馨</a>
+    </li>
+    <li class="dcLeftLi" id="leftLi12" @click="changeLiText($event);">
+      <a @click.prevent="custormAnchor('li12')">圣诞专区</a>
+    </li>
+    <li class="dcLeftLi" id="leftLi13" @click="changeLiText($event);">
+      <a @click.prevent="custormAnchor('li13')">开业花篮</a>
+    </li>
   </ul>
   <section id="dcRightWrap">
     <p id="liText">{{liText}}</p>
@@ -357,6 +383,7 @@
 </template>
 
 <script>
+  // import BScroll from 'better-scroll'
   import sFooter from './shopFooter.vue'
   export default{
     data(){
@@ -391,11 +418,81 @@
           console.log(error)
         })
 
+        var dcR = document.getElementById('dcRightWrap');
+        dcR.addEventListener('scroll', this.handleUlScroll)
+
     },
     methods:{
+      changeColorByIndex(idx){
+        var elems = document.getElementsByClassName('dcLeftLi');
+        for(var i=0; i<elems.length; i++){
+          elems[i].style.backgroundColor = "#f5f5f5";
+        }
+        var elm = document.getElementById('leftLi'+idx);
+        elm.style.backgroundColor = "#fff";
+      },
+      handleUlScroll(){
+        var dcR = document.getElementById('dcRightWrap');
+        console.log(dcR.scrollTop)
+        //207
+        if(dcR.scrollTop <= 207){
+          this.changeColorByIndex(1);
+        }
+        //713
+        else if(dcR.scrollTop <= 713){
+          this.changeColorByIndex(2);
+        }
+        //1093
+        else if(dcR.scrollTop <= 1093){
+          this.changeColorByIndex(3);
+        }
+        //1599
+        else if(dcR.scrollTop <= 1599){
+          this.changeColorByIndex(4);
+        }
+        //2105
+        else if(dcR.scrollTop <= 2105){
+          this.changeColorByIndex(5);
+        }
+        //3243
+        else if(dcR.scrollTop <= 3243){
+          this.changeColorByIndex(6);
+        }
+        //3623
+        else if(dcR.scrollTop <= 3623){
+          this.changeColorByIndex(7);
+        }
+        //4129
+        else if(dcR.scrollTop <= 4129){
+          this.changeColorByIndex(8);
+        }
+        //4341
+        else if(dcR.scrollTop <= 4341){
+          this.changeColorByIndex(9);
+        }
+        //5100
+        else if(dcR.scrollTop <= 5100){
+          this.changeColorByIndex(10);
+        }
+        //6491
+        else if(dcR.scrollTop <= 6491){
+          this.changeColorByIndex(11);
+        }
+        //7250
+        else if(dcR.scrollTop <= 7250){
+          this.changeColorByIndex(12);
+        }
+        //7561
+        else{
+          this.changeColorByIndex(13);
+        }
+
+      },
       changeLiText(e){
-        $(e.target).addClass("dcLeftLiActive");
-        $(e.target).siblings().removeClass("dcLeftLiActive");
+        $(e.target).parent().addClass("dcLeftLiActive");
+        $(e.target).parent().siblings().removeClass("dcLeftLiActive");
+        $('.dcLeftLi a').css("color","#666");
+        $(e.target).css("color","#333");
         this.liText = $(e.target).text();
       },
       addToShopCar(e){
@@ -473,52 +570,12 @@
 
       },
 
-      changeRightContent(e){
-        console.log(e.currentTarget.id)
-        if(e.currentTarget.id == "leftLi1"){
-            console.log($("#li1").offset().top)
-            $('#dcRightWrap').scrollTop = $("#li1").offset().top;
-
-        }
-        else if(e.currentTarget.id == "leftLi2"){
-          console.log($("#li2").offset().top)
-          $('#dcRightWrap').scrollTop = $("#li2").offset().top;
-        }
-        else if(e.currentTarget.id == "leftLi3"){
-          console.log($("#li3").offset().top)
-          $('#dcRightWrap').scrollTop = $("#li3").offset().top;
-        }
-        else if(e.currentTarget.id == "leftLi4"){
-          $('#dcRightWrap').scrollTop = $("#li4").offset().top;
-        }
-        else if(e.currentTarget.id == "leftLi5"){
-          $('#dcRightWrap').scrollTop = $("#li5").offset().top;
-        }
-        else if(e.currentTarget.id == "leftLi6"){
-          $('#dcRightWrap').scrollTop = $("#li6").offset().top;
-        }
-        else if(e.currentTarget.id == "leftLi7"){
-          $('#dcRightWrap').scrollTop = $('#dcRightWrap').top;
-        }
-        else if(e.currentTarget.id == "leftLi8"){
-          $("#li8").scrollTop = 0;
-        }
-        else if(e.currentTarget.id == "leftLi9"){
-          $("#li9").scrollTop = 0;
-        }
-        else if(e.currentTarget.id == "leftLi10"){
-          $("#li10").scrollTop = 0;
-        }
-        else if(e.currentTarget.id == "leftLi11"){
-          $("#li11").scrollTop = 0;
-        }
-        else if(e.currentTarget.id == "leftLi12"){
-          $("#li12").scrollTop = 0;
-        }
-        else{
-          $("#li13").scrollTop = 0;
-        }
-
+      custormAnchor(anchorName) {
+        // 找到锚点
+        let anchorElement = document.getElementById(anchorName);
+        // document.getElementById(anchorName);
+        // 如果对应id的锚点存在，就跳转到锚点
+        if(anchorElement) {console.log(anchorElement); anchorElement.scrollIntoView(); }
       }
 
     }
@@ -541,11 +598,19 @@
   }
   .dcLeftLi{
     width:100%;
-    padding:10px 10px 20px;
     font-size:13px;
     color: #666666;
     box-sizing:border-box;
     font-weight:bold;
+  }
+  .dcLeftLi a{
+    font-size:13px;
+    color: #666666;
+    text-decoration:none;
+    display:inline-block;
+    padding: 10px 10px 20px;
+
+
   }
   .dcLeftLiActive{
     color:#333 !important;
@@ -562,7 +627,7 @@
     margin-left:0.2rem;
     float:left;
     height:100vh;
-    overflow:auto;
+    overflow:scroll;
     padding-bottom:50px;
   }
   #liText{
@@ -572,6 +637,7 @@
   }
   #dcRightUl{
     width:100%;
+
   }
   .dcRightLi{
     width:100%;

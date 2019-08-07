@@ -111,6 +111,7 @@
 </script>
 
 <style scoped>
+
   .liLine{
     display:inline-block;
     width:20px;
@@ -128,6 +129,7 @@
   .iActive{
     background: #FFB000 !important;
   }
+
   nav{
     width:100%;
     height:0.8rem;

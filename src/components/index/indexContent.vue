@@ -12,7 +12,7 @@
         <ul id="titleUl">
         <li class="titleLi" @click="toggleSort()">
           <router-link class="titleLink" to="/totalsort">
-            综合排序<i class="iconfont">&#xe638;</i>
+            综合排序<i class="iconfont" id="triangl">&#xe638;</i>
 
           </router-link>
         </li>
@@ -108,7 +108,8 @@
    export default{
     data(){
       return{
-        inList:[]
+        inList:[],
+        degree:0
 
       }
     },
@@ -129,6 +130,13 @@
         this.$store.commit('filtertoggleShow');
       },
       toggleSort(){
+        this.degree += 180;
+        // console.log(this.degree);
+        $('#triangl').css({
+          "transform":"rotate("+this.degree+"deg)",
+          "transition":"0.2s",
+          "display":"inline-block"
+        })
         this.$store.commit('sorttoggleShow');
 
       },
@@ -156,6 +164,7 @@
 
  <style scoped>
 
+
     .indexContent{
       background-color:#fff;
       padding-bottom:45px;
@@ -181,6 +190,8 @@
 
    #titleUl{
     width:100%;
+    max-width:750px;
+    margin:0 auto;
     height:0.8rem;
     line-height:0.8rem;
     display:flex;

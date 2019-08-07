@@ -152,6 +152,8 @@
 #screenMain{
   position:relative;
   height:400px;
+  max-width:750px;
+  margin:0 auto;
 
 
 }

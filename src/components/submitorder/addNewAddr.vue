@@ -20,7 +20,7 @@
       <span>门牌号：</span>
       <input type="text" name="door" />
     </p>
-    <span id="saveBtn">保存</span>
+    <span id="saveBtn" @click="toIndex">保存</span>
     <span id="returnBtn">返回</span>
   </main>
 
@@ -29,7 +29,16 @@
 
 <script>
   export default{
+    data(){
+      return{
 
+      }
+    },
+    methods:{
+      toIndex(){
+        this.$router.replace({path:'/index'})
+      }
+    }
   }
 </script>
 

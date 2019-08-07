@@ -104,6 +104,7 @@
   }
   #headerReturnIcon{
     display:inline-block;
+    cursor:pointer;
 
   }
   #headerMsg{
